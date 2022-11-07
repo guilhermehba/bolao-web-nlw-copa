@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <a href="guilhermehba.github.io/NLW-Copa/" target = "blank">
+  <a href="https://guilhermehba.github.io/bolao-web-nlw-copa/" target = "blank">
   <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
   </a>
 </p>
